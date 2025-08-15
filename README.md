@@ -69,10 +69,11 @@ The R² score indicates that the model explains about **90%** of the variance in
 
 ## 👤 Author
 **Arshia Estineh**  
-- **GitHub**: [Arshiaaestinehh2005](https://github.com/Arshiaaestineh2005)  
+- **GitHub**: [Arshiaaestinehh](https://github.com/Arshiaaestineh)  
 - **Email**: [arshiaestineh2005@icloud.com](mailto:arshiaestineh2005@icloud.com)  
 
 ---
 
 ## 📄 License
 This project is for educational purposes and can be freely used or modified.
+
