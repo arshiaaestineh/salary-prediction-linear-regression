@@ -75,5 +75,6 @@ The R² score indicates that the model explains about **90%** of the variance in
 ---
 
 ## 📄 License
-This project is for educational purposes and can be freely used or modified.
+This project is for educational purposes and can be freely used or modified..
+
 
